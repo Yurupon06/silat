@@ -13,6 +13,7 @@ class Athlete extends Model
         'category_name',
         'visit',
         'cycle',
+        'apapspdasd',
     ];
 
 }
